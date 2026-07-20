@@ -28,6 +28,7 @@ Generative UI is a new modality where the AI model generates not only the conten
 ### Papers (sorted by most recent)
 - [The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization, Neshaei et al.](https://arxiv.org/pdf/2606.15902) (Jun 14 2026)
 - [Rethinking the UI of GenUI: A Tale of Two Designs, Chen et al.](https://arxiv.org/pdf/2606.13843) (Jun 11 2026)
+- [Macaron-A2UI: A Model for Generative UI in Personal Agents, Kong et al.](https://arxiv.org/pdf/2605.24830) (May 24 2026)
 - [Generative UI: LLMs are Effective UI Generators, Leviathan et al.](https://arxiv.org/pdf/2604.09577) (Feb 24 2026)
 - [The Keyhole Effect: Why Chat Interfaces Fail at Data Analysis, Mohan Reddy](https://arxiv.org/pdf/2602.00947) (Feb 1 2026)
 - [Gradual Generation of User Interfaces as a Design Method for Malleable Software, Min et al.](https://arxiv.org/pdf/2601.17975) (Jan 25 2026)
