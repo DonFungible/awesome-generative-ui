@@ -4,9 +4,6 @@ This repo is a list of resources for building with and learning about generative
 
 Generative UI is a new modality in which an AI model directly generates UI. It enables chatbots to communicate more effectively through visual and interactive elements. For example, instead of a chatbot returning an only-text list of nearby restaurants, it would instead return an appropriately designed UI component with images of the restaurants, locations on Google Maps, and an interactive reservation booking component. 
 
-<video src="https://www.monogram.ai/videos/birthday.mp4" controls></video>
-Generative UI demonstrated in the [Monogram](https://www.monogram.ai/) mobile app.
-
 ## Contents
 
 - [Implementation](#implementation)
