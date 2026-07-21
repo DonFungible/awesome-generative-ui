@@ -1,28 +1,43 @@
 # Awesome Generative UI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of tools, protocols, and resources for building with and learning about Generative UI. 
+This repo is a list of resources for building with and learning about generative UI. I curated it based on my experience building generative UI as a full-stack developer. I actively maintain this repository and keep its links up to date.
 
-Generative UI is a new modality where the AI model generates not only the content, but the entire user interface.  
+Generative UI is a new modality in which an AI model directly generates UI. It enables chatbots to communicate more effectively through visual and interactive elements. For example, instead of a chatbot returning an only-text list of nearby restaurants, it would instead return an appropriately designed UI component with images of the restaurants, locations on Google Maps, and an interactive reservation booking component. 
+
+<video src="https://www.monogram.ai/videos/birthday.mp4" controls></video>
+Generative UI demonstrated in the [Monogram](https://www.monogram.ai/) mobile app.
+
 ## Contents
 
-- [Specifications & Protocols](#specifications--protocols)
-- [Frameworks & Libraries](#frameworks--libraries)
+- [Implementation](#implementation)
+  - [Specifications & Protocols](#specifications--protocols)
+  - [Tools](#tools-sorted-alphabetically)
+  - [Skills](#skills)
 - [Learning](#learning)
+  - [Papers](#papers-sorted-by-most-recent)
+  - [Videos](#videos-sorted-by-most-recent)
+  - [Articles & Posts](articles--posts-sorted-by-most-recent)
 
-## Specifications & Protocols
+## Implementation
+### Specifications & Protocols
 
-- [A2UI](https://github.com/google/A2UI) - A2UI is an open-source project, complete with a format optimized for representing updatable agent-generated UIs and an initial set of renderers, that allows agents to generate or populate rich user interfaces.
+- [A2UI](https://github.com/google/A2UI) - An open-source project that includes a format optimized for representing updatable, agent-generated UIs and an initial set of renderers, allowing agents to generate or populate rich user interfaces.
 - [AGUI](https://github.com/ag-ui-protocol/ag-ui) - AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications.
-- [MCP-UI](https://github.com/MCP-UI-Org/mcp-ui) - mcp-ui is an SDK implementing the MCP Apps standard for UI over MCP. 
+- [MCP Apps](https://modelcontextprotocol.io/extensions/apps/overview) - MCP Apps is a standard for letting an MCP server return an interactive UI alongside a tool result.
 
-## Frameworks & Libraries
+### Tools (sorted alphabetically) 
 
-- [CopilotKit](http://copilotkit.ai/) - SDK for building agents & generative UI. Developed by the creators of AG-UI.
+- [CopilotKit](http://copilotkit.ai/) - An SDK for building agents and generative UIs. Developed by the creators of AG-UI.
 - [AI SDK](https://github.com/vercel/ai) - A TypeScript toolkit for building AI-powered applications. Developed by Vercel.
-- [json-render](https://github.com/vercel-labs/json-render) - Generative UI framework. Enables UI to be described in the form of structured JSON instead of frontend code. Developed by Vercel.
-- [Tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React.
-- [assistant-ui](https://github.com/assistant-ui/assistant-ui) - TypeScript/React primitives for building AI chat interfaces with generative UI.
-- [Thesys](https://www.thesys.dev/) - Generative UI API for AI-native applications.
+- [json-render](https://github.com/vercel-labs/json-render) - A generative UI framework that enables UIs to be described as structured JSON rather than frontend code. Developed by Vercel.
+- [Tambo](https://github.com/tambo-ai/tambo) - A generative UI SDK for React.
+- [assistant-ui](https://github.com/assistant-ui/assistant-ui) - TypeScript and React primitives for building AI chat interfaces with generative UI.
+- [MCP-UI](https://github.com/MCP-UI-Org/mcp-ui) - An SDK that implements the MCP Apps standard for UI over MCP.
+- [Thesys](https://www.thesys.dev/) - A generative UI API for AI-native applications.
+
+### Skills
+- [Pick UI](https://github.com/emilkowalski/skills/blob/main/skills/pick-ui-library/SKILL.md) - A skill for deciding which UI library to use. Developed by [Emil Kowalski](https://x.com/emilkowalski).
+- - 
 
 ## Learning
 ### Papers (sorted by most recent)
@@ -36,7 +51,7 @@ Generative UI is a new modality where the AI model generates not only the conten
 - [Towards a Working Definition of Designing Generative User Interfaces](https://arxiv.org/pdf/2505.15049) (May 21 2025)
 - [Against Generative UI, Okopnyi et al.](https://dl.acm.org/doi/epdf/10.1145/3686169.3686184) (Oct 21 2024)
 - [pix2code: Generating Code from a Graphical User Interface Screenshot, Tony Beltramelli](https://arxiv.org/pdf/1705.07962) (May 22 2017)
-### Talks/Videos (sorted by most recent)
+### Videos (sorted by most recent)
 
 - [Generative UI for any agent, anywhere: A2UI, AG-UI, MCP Apps, and more, Google Cloud Next 2026 Talk](https://www.youtube.com/watch?v=UsMDkEsR-ok) (Jun 25 2026)
 - [Beyond Components: Designing Generative UI for MCP Apps, AI Engineer 2026 Ruben Casas with Postman](https://www.youtube.com/watch?v=hCMrEfPG2Yg) (Jun 3 2026)
@@ -51,7 +66,7 @@ Generative UI is a new modality where the AI model generates not only the conten
 - [Stanford Seminar - Generative, Malleable, and Personal User Interfaces -- Haijun Xia, UC San Diego](https://www.youtube.com/watch?v=MbWgRuM-7X8) (Feb 25 2025)
 - [Building Generative UI with Next.js](https://www.youtube.com/watch?v=cIzsQBbZNxk) (Nov 3 2023)
 
-### Articles/Tweets
+### Articles & Posts (sorted by most recent)
 - [Generative UI: A rich, custom, visual interactive user experience for any prompt, Google Research](https://research.google/blog/generative-ui-a-rich-custom-visual-interactive-user-experience-for-any-prompt/) (Nov 2025)
 - [Malleable Software, Geoffrey Litt](https://www.inkandswitch.com/essay/malleable-software/) (Jun 2025)
 - [Generative UI and Outcome-Oriented Design, Kate Moran & Sarah Gibbons (NN/g)](https://www.nngroup.com/articles/generative-ui/) (Mar 2024)
