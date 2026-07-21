@@ -27,12 +27,12 @@ Generative UI demonstrated in the [Monogram](https://www.monogram.ai/) mobile ap
 
 ### Tools (sorted alphabetically) 
 
-- [CopilotKit](http://copilotkit.ai/) - An SDK for building agents and generative UIs. Developed by the creators of AG-UI.
 - [AI SDK](https://github.com/vercel/ai) - A TypeScript toolkit for building AI-powered applications. Developed by Vercel.
-- [json-render](https://github.com/vercel-labs/json-render) - A generative UI framework that enables UIs to be described as structured JSON rather than frontend code. Developed by Vercel.
-- [Tambo](https://github.com/tambo-ai/tambo) - A generative UI SDK for React.
 - [assistant-ui](https://github.com/assistant-ui/assistant-ui) - TypeScript and React primitives for building AI chat interfaces with generative UI.
+- [CopilotKit](http://copilotkit.ai/) - An SDK for building agents and generative UIs. Developed by the creators of AG-UI.
+- [json-render](https://github.com/vercel-labs/json-render) - A generative UI framework that enables UIs to be described as structured JSON rather than frontend code. Developed by Vercel.
 - [MCP-UI](https://github.com/MCP-UI-Org/mcp-ui) - An SDK that implements the MCP Apps standard for UI over MCP.
+- [Tambo](https://github.com/tambo-ai/tambo) - A generative UI SDK for React.
 - [Thesys](https://www.thesys.dev/) - A generative UI API for AI-native applications.
 
 ### Skills
