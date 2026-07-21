@@ -2,7 +2,7 @@
 
 This repo is a list of resources for building with and learning about generative UI. I curated it based on my experience building generative UI as a full-stack developer. I actively maintain this repository and keep its links up to date.
 
-Generative UI is a new modality in which an AI model directly generates UI. It enables chatbots to communicate more effectively through visual and interactive elements. For example, instead of a chatbot returning an only-text list of nearby restaurants, it would instead return an appropriately designed UI component with images of the restaurants, locations on Google Maps, and an interactive reservation booking component. 
+Generative UI is a new modality in which an AI model directly generates UI instead of text. In simplified terms, it enables chatbots to communicate more effectively through visual and interactive elements. For example, instead of a chatbot returning an only-text list of nearby restaurants, it would instead return an appropriately designed UI component with images of the restaurants, locations on Google Maps, and an interactive reservation booking component. 
 
 ## Contents
 
