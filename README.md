@@ -41,6 +41,7 @@ Generative UI is a new modality in which an AI model directly generates UI inste
 - [The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization, Neshaei et al.](https://arxiv.org/pdf/2606.15902) (Jun 14 2026)
 - [Rethinking the UI of GenUI: A Tale of Two Designs, Chen et al.](https://arxiv.org/pdf/2606.13843) (Jun 11 2026)
 - [Macaron-A2UI: A Model for Generative UI in Personal Agents, Kong et al.](https://arxiv.org/pdf/2605.24830) (May 24 2026)
+- [Efficient Personalization of Generative User Interfaces, Peng at al.](https://arxiv.org/pdf/2604.09876) (Apr 10 2026)
 - [Generative UI: LLMs are Effective UI Generators, Leviathan et al.](https://arxiv.org/pdf/2604.09577) (Feb 24 2026)
 - [The Keyhole Effect: Why Chat Interfaces Fail at Data Analysis, Mohan Reddy](https://arxiv.org/pdf/2602.00947) (Feb 1 2026)
 - [Gradual Generation of User Interfaces as a Design Method for Malleable Software, Min et al.](https://arxiv.org/pdf/2601.17975) (Jan 25 2026)
@@ -68,6 +69,12 @@ Generative UI is a new modality in which an AI model directly generates UI inste
 - [Malleable Software, Geoffrey Litt](https://www.inkandswitch.com/essay/malleable-software/) (Jun 2025)
 - [Generative UI and Outcome-Oriented Design, Kate Moran & Sarah Gibbons (NN/g)](https://www.nngroup.com/articles/generative-ui/) (Mar 2024)
 - [Introducing AI SDK 3.0 with Generative UI, Vercel](https://vercel.com/blog/ai-sdk-3-generative-ui) (Mar 2024)
+
+## Apps
+These are apps/websites/demonstrations whose main feature or value proposition revolves around generative UI.
+- [Monogram](https://www.monogram.ai/) - A general purpose AI app that focuses on visual interfaces.
+- [Posthog AI](https://posthog.com/ai) - Posthog's AI chat can generate dynamic interfaces
+- 
 
 ## Contributing
 
