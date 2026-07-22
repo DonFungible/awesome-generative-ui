@@ -2,7 +2,8 @@
 
 This repo is a list of resources for building with and learning about generative UI. I curated it based on my experience building generative UI as a full-stack developer. I actively maintain this repository and keep its links up to date.
 
-Generative UI is a new modality in which an AI model directly generates UI instead of text. In simplified terms, it enables chatbots to communicate more effectively through visual and interactive elements. For example, instead of a chatbot returning a text-based list of nearby restaurants, it would instead return an appropriately designed UI component with images of the restaurants, locations on Google Maps, and an interactive reservation booking component. 
+Generative UI is a new AI interaction modality in which models generate structured user interfaces rather than text alone. By producing dynamic, interactive UI components, AI systems can present information in a format that is more intuitive, actionable, and context-aware. For example, instead of responding with a text list of nearby restaurants, a model could render a restaurant discovery interface complete with images, map integration, ratings, and reservation widgets, enabling users to explore and act directly within the generated experience. Another example would be a data analytics dashboard where teammates can personalize what type of charts and metrics they want to view.   
+
 
 ## Contents
 
@@ -14,7 +15,8 @@ Generative UI is a new modality in which an AI model directly generates UI inste
   - [Papers](#papers-sorted-by-most-recent)
   - [Videos](#videos-sorted-by-most-recent)
   - [Articles & Posts](articles--posts-sorted-by-most-recent)
-
+- [Apps](#apps)
+ 
 ## Implementation
 ### Specifications & Protocols
 
@@ -31,6 +33,7 @@ Generative UI is a new modality in which an AI model directly generates UI inste
 - [MCP-UI](https://github.com/MCP-UI-Org/mcp-ui) - An SDK that implements the MCP Apps standard for UI over MCP.
 - [Tambo](https://github.com/tambo-ai/tambo) - A generative UI SDK for React.
 - [Thesys](https://www.thesys.dev/) - A generative UI API for AI-native applications.
+- [Vendo](https://github.com/runvendo/vendo) - An SDK to enable user-driven customization of webapps.
 
 ### Skills
 - [Pick UI](https://github.com/emilkowalski/skills/blob/main/skills/pick-ui-library/SKILL.md) - A skill for deciding which UI library to use. Developed by [Emil Kowalski](https://x.com/emilkowalski).
