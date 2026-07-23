@@ -1,10 +1,21 @@
-# Awesome Generative UI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<img width="1614" height="974" alt="HI0u2OsbMAAPV5V" src="https://github.com/user-attachments/assets/5a18f1e4-2f84-442f-927f-24d4cdacc6d9" /># Awesome Generative UI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repo is a list of resources for building with and learning about generative UI. I curated it based on my experience building generative UI as a full-stack developer. I actively maintain this repository and keep its links up to date.
 
 Generative UI is a new AI interaction modality in which models generate structured user interfaces rather than text alone. By producing dynamic, interactive UI components, AI systems can present information in a format that is more intuitive, actionable, and context-aware. For example, instead of responding with a text list of nearby restaurants, a model could render a restaurant discovery interface complete with images, map integration, ratings, and reservation widgets, enabling users to explore and act directly within the generated experience. Another example would be a data analytics dashboard where teammates can personalize what type of charts and metrics they want to view.   
 
+At the moment, there are three distinct flavors of generative UI:
+1. Controlled/Static: select UI from a catalog of pre-built components
+2. Declarative: generate the layout or schema, made up of pre-built components
+3. Open-ended: generates unique and dynamic UI on-the-fly
+<img width="1614" height="974" alt="HI0u2OsbMAAPV5V" src="https://github.com/user-attachments/assets/092a40a3-284d-43f6-80bc-ce4ff740134e" />
+<p align="center">
+  <em>
+    Three flavors of generative UI. Image taken from
+    <a href="https://x.com/Saboo_Shubham_/status/2062220865643982875">Shubham Saboo (@Saboo_Shubham_)</a>.
+  </em>
 
+</p>
 ## Contents
 
 - [Implementation](#implementation)
