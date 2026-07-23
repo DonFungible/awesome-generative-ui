@@ -68,7 +68,7 @@ Generative UI is a new AI interaction modality in which models generate structur
 - [Building Generative UI with Next.js](https://www.youtube.com/watch?v=cIzsQBbZNxk) (Nov 3 2023)
 
 ### Articles & Posts (sorted by most recent)
-- [2030-shaped Software, Posthog](https://x.com/posthog/status/20796107931388235120) (Jul 22 2026)
+- [2030-shaped Software, Posthog](https://x.com/posthog/status/2079610793138823512) (Jul 22 2026)
 - [Generative UI is the New Frontend](https://x.com/Saboo_Shubham_/status/2062220865643982875) (Jun 4 2026)
 - [Generative UI: A rich, custom, visual interactive user experience for any prompt, Google Research](https://research.google/blog/generative-ui-a-rich-custom-visual-interactive-user-experience-for-any-prompt/) (Nov 18 2025)
 - [Malleable Software, Geoffrey Litt](https://www.inkandswitch.com/essay/malleable-software/) (Jun 2025)
