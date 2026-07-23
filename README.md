@@ -1,4 +1,4 @@
-<img width="1614" height="974" alt="HI0u2OsbMAAPV5V" src="https://github.com/user-attachments/assets/5a18f1e4-2f84-442f-927f-24d4cdacc6d9" /># Awesome Generative UI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Generative UI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repo is a list of resources for building with and learning about generative UI. I curated it based on my experience building generative UI as a full-stack developer. I actively maintain this repository and keep its links up to date.
 
