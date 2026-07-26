@@ -60,6 +60,7 @@ There are three distinct flavors of generative UI:
 - [The Keyhole Effect: Why Chat Interfaces Fail at Data Analysis, Mohan Reddy](https://arxiv.org/pdf/2602.00947) (Feb 1 2026)
 - [Gradual Generation of User Interfaces as a Design Method for Malleable Software, Min et al.](https://arxiv.org/pdf/2601.17975) (Jan 25 2026)
 - [Meridian: A Design Framework for Malleable Overview-Detail Interfaces, Min and Xia](https://dl.acm.org/doi/epdf/10.1145/3746059.3747654) (Sep 27 2025)
+- [StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs, Yang et al.](https://arxiv.org/pdf/2505.20139) (May 26 2025) - StructEval-V evaluates generated HTML, React, SVG, Canvas, and visualization code using rendered outputs and visual question answering.
 - [Towards a Working Definition of Designing Generative User Interfaces](https://arxiv.org/pdf/2505.15049) (May 21 2025)
 - [Against Generative UI, Okopnyi et al.](https://dl.acm.org/doi/epdf/10.1145/3686169.3686184) (Oct 21 2024)
 - [pix2code: Generating Code from a Graphical User Interface Screenshot, Tony Beltramelli](https://arxiv.org/pdf/1705.07962) (May 22 2017)
