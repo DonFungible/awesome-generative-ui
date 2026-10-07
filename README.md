@@ -105,6 +105,7 @@ There are three distinct flavors of generative UI:
 - [Building Generative UI with Next.js](https://www.youtube.com/watch?v=cIzsQBbZNxk) (Nov 3 2023)
 
 ### Articles & Posts (sorted by most recent)
+- [GPT-6 and Intelligent UI for everyone, OpenAI](https://openai.com/index/gpt-6-for-everyone/) (Oct 7 2026)
 - [The future of practice: Enabling teachers to create learning interactives with generative UI, Google Research](https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/) (Sep 17 2026)
 - [2030-shaped Software, Posthog](https://x.com/posthog/status/2079610793138823512) (Jul 22 2026)
 - [Generative UI is the New Frontend](https://x.com/Saboo_Shubham_/status/2062220865643982875) (Jun 4 2026)
