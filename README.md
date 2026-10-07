@@ -14,8 +14,8 @@ There are three distinct flavors of generative UI:
     Three flavors of generative UI. Image taken from
     <a href="https://x.com/Saboo_Shubham_/status/2062220865643982875">Shubham Saboo (@Saboo_Shubham_)</a>.
   </em>
-
 </p>
+
 ## Contents
 
 - [Implementation](#implementation)
@@ -25,9 +25,9 @@ There are three distinct flavors of generative UI:
 - [Learning](#learning)
   - [Papers](#papers-sorted-by-most-recent)
   - [Videos](#videos-sorted-by-most-recent)
-  - [Articles & Posts](articles--posts-sorted-by-most-recent)
+  - [Articles & Posts](#articles--posts-sorted-by-most-recent)
 - [Apps](#apps)
- 
+
 ## Implementation
 ### Specifications & Protocols
 
