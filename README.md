@@ -42,6 +42,7 @@ There are three distinct flavors of generative UI:
 - [CopilotKit](http://copilotkit.ai/) - An SDK for building agents and generative UIs. Developed by the creators of AG-UI.
 - [json-render](https://github.com/vercel-labs/json-render) - A generative UI framework that enables UIs to be described as structured JSON rather than frontend code. Developed by Vercel.
 - [MCP-UI](https://github.com/MCP-UI-Org/mcp-ui) - An SDK that implements the MCP Apps standard for UI over MCP.
+- [OpenUI](https://github.com/thesysdev/openui) - An open standard for generative UI built on OpenUI Lang, a streaming-first language with runtimes for React, Vue, Svelte, and Angular. Developed by Thesys.
 - [Tambo](https://github.com/tambo-ai/tambo) - A generative UI SDK for React.
 - [Thesys](https://www.thesys.dev/) - A generative UI API for AI-native applications.
 - [Vendo](https://github.com/runvendo/vendo) - An SDK to enable user-driven customization of webapps.
@@ -104,6 +105,7 @@ There are three distinct flavors of generative UI:
 - [Building Generative UI with Next.js](https://www.youtube.com/watch?v=cIzsQBbZNxk) (Nov 3 2023)
 
 ### Articles & Posts (sorted by most recent)
+- [The future of practice: Enabling teachers to create learning interactives with generative UI, Google Research](https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/) (Sep 17 2026)
 - [2030-shaped Software, Posthog](https://x.com/posthog/status/2079610793138823512) (Jul 22 2026)
 - [Generative UI is the New Frontend](https://x.com/Saboo_Shubham_/status/2062220865643982875) (Jun 4 2026)
 - [Generative UI: A rich, custom, visual interactive user experience for any prompt, Google Research](https://research.google/blog/generative-ui-a-rich-custom-visual-interactive-user-experience-for-any-prompt/) (Nov 18 2025)
