@@ -105,6 +105,8 @@ There are three distinct flavors of generative UI:
 - [Building Generative UI with Next.js](https://www.youtube.com/watch?v=cIzsQBbZNxk) (Nov 3 2023)
 
 ### Articles & Posts (sorted by most recent)
+- [Workday is using TypeSafe's Jev to build user interfaces on the fly, The New Stack](https://thenewstack.io/workday-is-using-typesafes-jev-to-build-user-interfaces-on-the-fly/) (Oct 13 2026)
+- [Generative UI Runs on Your Design System, The Gradient](https://thegradient.com/thinking/generative-ui-design-system) (Oct 12 2026)
 - [GPT-6 and Intelligent UI for everyone, OpenAI](https://openai.com/index/gpt-6-for-everyone/) (Oct 7 2026)
 - [The future of practice: Enabling teachers to create learning interactives with generative UI, Google Research](https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/) (Sep 17 2026)
 - [2030-shaped Software, Posthog](https://x.com/posthog/status/2079610793138823512) (Jul 22 2026)
