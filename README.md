@@ -101,6 +101,11 @@ There are three distinct flavors of generative UI:
 - [pix2code: Generating Code from a Graphical User Interface Screenshot, Tony Beltramelli](https://arxiv.org/pdf/1705.07962) (May 22 2017)
 ### Videos (sorted by most recent)
 
+- [Beyond the Chatbot: Gen UI & the Execution Trust Problem, Harshil Agrawal (Cloudflare), dotJS 2026](https://www.youtube.com/watch?v=iymZjaNcwc8) (Sep 28 2026)
+- [Generative UI... in Python?, Jeremiah Lowin (Prefect), AI Engineer](https://www.youtube.com/watch?v=Krzs8GeiWTc) (Sep 10 2026)
+- [MCP Apps: Give the Model Data, Give the User a UI, Dustin Mihalik (Indeed), AI Engineer](https://www.youtube.com/watch?v=lbaXnx0KLA8) (Sep 9 2026)
+- [Tour of Agent Protocols: MCP, A2A, AG-UI, A2UI, Mete Atamel, NDC Copenhagen 2026](https://www.youtube.com/watch?v=o9DIvmMitlk) (Aug 5 2026)
+- [Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing, Bala Ramdoss (Amazon Lens), AI Engineer](https://www.youtube.com/watch?v=maTp79FD9gI) (Jul 19 2026)
 - [Generative UI for any agent, anywhere: A2UI, AG-UI, MCP Apps, and more, Google Cloud Next 2026 Talk](https://www.youtube.com/watch?v=UsMDkEsR-ok) (Jun 25 2026)
 - [Beyond Components: Designing Generative UI for MCP Apps, AI Engineer 2026 Ruben Casas with Postman](https://www.youtube.com/watch?v=hCMrEfPG2Yg) (Jun 3 2026)
 - [MCP UI: Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps](https://www.youtube.com/watch?v=o-zkvb0iFDQ) (May 6 2026)
