@@ -31,7 +31,7 @@ There are three distinct flavors of generative UI:
 ## Implementation
 ### Specifications & Protocols
 
-- [A2UI](https://github.com/google/A2UI) - An open-source project that includes a format optimized for representing updatable, agent-generated UIs and an initial set of renderers, allowing agents to generate or populate rich user interfaces.
+- [A2UI](https://github.com/a2ui-project/a2ui) - An open-source project that includes a format optimized for representing updatable, agent-generated UIs and an initial set of renderers, allowing agents to generate or populate rich user interfaces.
 - [AGUI](https://github.com/ag-ui-protocol/ag-ui) - AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications.
 - [MCP Apps](https://modelcontextprotocol.io/extensions/apps/overview) - MCP Apps is a standard for letting an MCP server return an interactive UI alongside a tool result.
 
@@ -39,7 +39,7 @@ There are three distinct flavors of generative UI:
 
 - [AI SDK](https://github.com/vercel/ai) - A TypeScript toolkit for building AI-powered applications. Developed by Vercel.
 - [assistant-ui](https://github.com/assistant-ui/assistant-ui) - TypeScript and React primitives for building AI chat interfaces with generative UI.
-- [CopilotKit](http://copilotkit.ai/) - An SDK for building agents and generative UIs. Developed by the creators of AG-UI.
+- [CopilotKit](https://www.copilotkit.ai/) - An SDK for building agents and generative UIs. Developed by the creators of AG-UI.
 - [json-render](https://github.com/vercel-labs/json-render) - A generative UI framework that enables UIs to be described as structured JSON rather than frontend code. Developed by Vercel.
 - [MCP-UI](https://github.com/MCP-UI-Org/mcp-ui) - An SDK that implements the MCP Apps standard for UI over MCP.
 - [OpenUI](https://github.com/thesysdev/openui) - An open standard for generative UI built on OpenUI Lang, a streaming-first language with runtimes for React, Vue, Svelte, and Angular. Developed by Thesys.
