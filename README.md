@@ -42,6 +42,7 @@ There are three distinct flavors of generative UI:
 - [CopilotKit](https://www.copilotkit.ai/) - An SDK for building agents and generative UIs. Developed by the creators of AG-UI.
 - [json-render](https://github.com/vercel-labs/json-render) - A generative UI framework that enables UIs to be described as structured JSON rather than frontend code. Developed by Vercel.
 - [MCP-UI](https://github.com/MCP-UI-Org/mcp-ui) - An SDK that implements the MCP Apps standard for UI over MCP.
+- [MorphScreen](https://github.com/morphscreen/morphscreen) - A generative UI format and SDK where models write Markdown with a few component tags, validated line by line as it streams. Developed by MorphScreen.
 - [OpenUI](https://github.com/thesysdev/openui) - An open standard for generative UI built on OpenUI Lang, a streaming-first language with runtimes for React, Vue, Svelte, and Angular. Developed by Thesys.
 - [Tambo](https://github.com/tambo-ai/tambo) - A generative UI SDK for React.
 - [Thesys](https://www.thesys.dev/) - A generative UI API for AI-native applications.
