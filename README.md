@@ -140,6 +140,7 @@ There are three distinct flavors of generative UI:
 These are apps/websites/demonstrations whose main feature or value proposition revolves around generative UI.
 - [Monogram](https://www.monogram.ai/) - A general purpose AI app that focuses on visual interfaces.
 - [Posthog AI](https://posthog.com/ai) - Posthog's AI chat can generate dynamic interfaces
+- [KITE](https://github.com/fidenit/KITE) - An open-source desktop workspace where the AI composes the screen as cards (timelines, routes, charts, forms) instead of replying in text.
 - 
 
 ## Contributing
