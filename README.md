@@ -120,6 +120,7 @@ There are three distinct flavors of generative UI:
 - [Building Generative UI with Next.js](https://www.youtube.com/watch?v=cIzsQBbZNxk) (Nov 3 2023)
 
 ### Articles & Posts (sorted by most recent)
+- [Introducing Diffusion-UI, Runway Labs](https://x.com/runwayml_labs/status/2122727083600380392) (Nov 17 2026)
 - [Devs guide to MCP Apps in Gemini, Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/devs-guide-to-mcp-apps-in-gemini/) (Oct 19 2026)
 - [The Intelligent UI era needs its new HTML, OpenUI](https://www.openui.com/blog/intelligent-ui-needs-a-new-html) (Oct 15 2026)
 - [What's New in OpenUI 1.0, OpenUI](https://www.openui.com/docs/openui-lang/whats-new) (Oct 15 2026)
