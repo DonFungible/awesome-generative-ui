@@ -43,12 +43,14 @@ There are three distinct flavors of generative UI:
 - [json-render](https://github.com/vercel-labs/json-render) - A generative UI framework that enables UIs to be described as structured JSON rather than frontend code. Developed by Vercel.
 - [MCP-UI](https://github.com/MCP-UI-Org/mcp-ui) - An SDK that implements the MCP Apps standard for UI over MCP.
 - [OpenUI](https://github.com/thesysdev/openui) - An open standard for generative UI built on OpenUI Lang, a streaming-first language with runtimes for React, Vue, Svelte, and Angular. Developed by Thesys.
+- [Ripple](https://github.com/qbtrix/ripple) - A generative UI engine that renders a model-written JSON spec as an interactive interface while the spec streams, with React, Svelte 5 and embed packages.
 - [Tambo](https://github.com/tambo-ai/tambo) - A generative UI SDK for React.
 - [Thesys](https://www.thesys.dev/) - A generative UI API for AI-native applications.
 - [Vendo](https://github.com/runvendo/vendo) - An SDK to enable user-driven customization of webapps.
 
 ### Skills
 - [Pick UI](https://github.com/emilkowalski/skills/blob/main/skills/pick-ui-library/SKILL.md) - A skill for deciding which UI library to use. Developed by [Emil Kowalski](https://x.com/emilkowalski).
+- [Ripple skill](https://github.com/qbtrix/ripple-iui) - Teaches coding agents to write and visually check Ripple specs: `npx skills add qbtrix/ripple-iui --skill ripple`.
 - - 
 
 ## Learning
